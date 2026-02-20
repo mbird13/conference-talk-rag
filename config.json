@@ -1,4 +1,4 @@
 {
-    "openaiKey": "insert your OpenAI API key here",
+    "openaiKey": "apikey",
     "years": 7
 }
