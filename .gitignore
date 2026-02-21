@@ -1,1 +1,9 @@
 config.json
+free/*
+openai/*
+SCRAPED_*
+questions.txt
+questions/*
+.vscode/*
+similarities/*
+results/*
